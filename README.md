@@ -5,7 +5,9 @@
 **Software für rechtliche Betreuung**
 Betreuung · Vergütung · Vermögen — modern, lokal, sicher.
 
-[![Download](https://img.shields.io/badge/⬇%20Download-Tutela%20Setup%20%26%20Portable-1d5b8a?style=for-the-badge)](https://showroom.dzeksn.com/s/Tutela)
+[![Download](https://img.shields.io/badge/⬇%20Download-Tutela%20Setup%20%26-1d5b8a?style=for-the-badge)](https://showroom.dzeksn.com/s/Tutela)
+
+[![Download](https://img.shields.io/badge/⬇%20Download-Tutela%20Setup%20%26%20Portable-1d5b8a?style=for-the-badge)](https://showroom.dzeksn.com/s/tutela-portable)
 
 .NET 10 · Blazor Server · verschlüsselte lokale Datenbank (SQLCipher) · Windows
 
