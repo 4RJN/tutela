@@ -27,9 +27,9 @@ Tutela läuft **lokal auf Ihrem eigenen Rechner** (selbst-gehostet, keine Cloud)
 
 ## Download & Installation
 
-**➡ [Tutela herunterladen](https://showroom.dzeksn.com/s/tutela)**
+**➡ [Tutela Setup  herunterladen](https://showroom.dzeksn.com/s/tutela)**
 
-**➡ [Tutela herunterladen](https://showroom.dzeksn.com/s/tutela-portable)**
+**➡ [Tutela Portable  herunterladen](https://showroom.dzeksn.com/s/tutela-portable)**
 
 
 Das Paket enthält:
@@ -149,9 +149,9 @@ Tutela verarbeitet besonders schützenswerte Daten. Deshalb:
 
 <div align="center">
 
-**[⬇ Jetzt Installer herunterladen](https://showroom.dzeksn.com/s/tutela)**
+**[⬇ Jetzt Tutela Setup herunterladen](https://showroom.dzeksn.com/s/tutela)**
 
-**[⬇ Jetzt Portable herunterladen](https://showroom.dzeksn.com/s/tutela-portable)**
+**[⬇ Jetzt Tutela Portable herunterladen](https://showroom.dzeksn.com/s/tutela-portable)**
 
 Tutela · Software für rechtliche Betreuung
 
